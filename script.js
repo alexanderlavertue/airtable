@@ -1,4 +1,4 @@
-let button = document.querySelector('#clickme');
+let button = document.querySelector('#bclick');
 button.addEventListener('click', myFunction)
 
 function myFunction() {
